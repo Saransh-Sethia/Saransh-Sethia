@@ -30,8 +30,7 @@ React app with product listing, search, cart, checkout. Consumes a REST API.
 
 ## Currently
 
-- 🔨 Building: a full-stack project with Node, Express and MongoDB
-- 📚 Learning: Node JS, MongoDB, Express JS
+- 🔨 Building: a full-stack project with Node, Express and MongoD
 
 ---
 
