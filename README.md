@@ -2,7 +2,7 @@
 
 **Frontend developer** building responsive React apps, with a growing focus on full-stack JavaScript.
 
-📍 Udaipur, India · Open to **frontend and full-stack roles** (remote / hybrid / on-site in City)
+📍 Udaipur, India · Open to **frontend and full-stack roles** Open to remote, hybrid, on-site in City)
 🗓️ Available: immediately
 
 ---
