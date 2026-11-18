@@ -38,4 +38,4 @@ React app with [product listing, search, cart, checkout]. Consumes a REST API.
 
 ## Contact
 
-[📧 Email](mailto:sethia.saransh.ss@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/saransh-sethia-007b53121/) · [📄 Resume](#)
+[📧 Email](mailto:sethia.saransh.ss@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/saransh-sethia-007b53121/) · [📄 Resume](https://drive.google.com/file/d/1brfe65YMf9vvZ20x_tUAJ7H0-hsNBuLk/view?usp=sharing)
